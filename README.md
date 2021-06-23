@@ -4,7 +4,7 @@ Projeto para o teste 1 da WIkidados
 
 Exemplo
 
-[![PEQUENA AMOSTRA](https://img.youtube.com/vi/_LAWSZRs0f0/0.jpg)](https://www.youtube.com/watch?v=_LAWSZRs0f0)
+[![PEQUENA AMOSTRA](https://img.youtube.com/vi/dyLUHNJJv0I/0.jpg)](https://www.youtube.com/watch?v=dyLUHNJJv0I)
 
 ## Instalar as Dependencias
 ```bash
