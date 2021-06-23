@@ -2,7 +2,7 @@
   "name": "nivel1-quasar",
   "version": "0.0.1",
   "description": "Projeto para o teste 1 da WIkidados",
-  "productName": "Teste 1 - Quasar",
+  "productName": "Teste 2 - Quasar",
   "author": "DjavanFernando <djavan.fernando@ufpr.br>",
   "private": true,
   "scripts": {
@@ -12,7 +12,10 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "core-js": "^3.6.5",
-    "quasar": "^2.0.0"
+    "highcharts": "^9.1.2",
+    "highcharts-vue": "^1.4.0",
+    "quasar": "^2.0.0",
+    "vue3-highcharts": "^0.1.3"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",

@@ -7,6 +7,7 @@ const BaseConfig = {
    API_CREATE: "users/",
    API_UPDATE: "users/",
    API_DELETE: "users/",
+   API_LOGIN: "login",
    DEFAULT_PROFILE: "https://icon-library.com/images/default-user-icon/default-user-icon-1.jpg",
    DEFAULT_JOB: "Usuário"
 }

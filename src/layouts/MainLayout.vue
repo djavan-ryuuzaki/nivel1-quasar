@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Teste Nível 1
+          Teste Nível 2
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
@@ -38,7 +38,9 @@
           :key="link.title"
           v-bind="link"
         />
+
       </q-list>
+      <DeslogarBtn />
     </q-drawer>
 
     <q-page-container>
@@ -49,13 +51,19 @@
 
 <script>
 import EssentialLink from 'components/EssentialLink.vue'
-
+import DeslogarBtn from 'components/DeslogarBtn.vue'
 const linksList = [
   {
     title: 'Home',
     caption: 'Home',
     icon: 'sync',
     link: './'
+  },
+  {
+    title: 'Dashboard',
+    caption: 'Dashboard',
+    icon: 'dashboard',
+    link: './#/dashboard'
   },
 
   {
@@ -73,7 +81,7 @@ export default defineComponent({
   name: 'MainLayout',
 
   components: {
-    EssentialLink
+    EssentialLink, DeslogarBtn
   },
 
   setup () {
