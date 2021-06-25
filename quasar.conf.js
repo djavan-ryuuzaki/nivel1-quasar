@@ -138,8 +138,8 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: `Teste 1 - Quasar`,
-        short_name: `Teste 1 - Quasar`,
+        name: `Teste 2 - Quasar`,
+        short_name: `Teste 2 - Quasar`,
         description: `Projeto para o teste 1 da WIkidados`,
         display: 'standalone',
         orientation: 'portrait',

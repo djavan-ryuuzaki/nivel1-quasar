@@ -1,10 +1,11 @@
-# Teste 1 - Quasar (nivel1-quasar)
+# Teste 2 - Quasar (nivel1-quasar)
 
-Projeto para o teste 1 da WIkidados
+Projeto para o teste 2 da WIkidados
 
 Exemplo
 
 [![PEQUENA AMOSTRA](https://img.youtube.com/vi/ERFExqyz7Ms/0.jpg)](https://www.youtube.com/watch?v=ERFExqyz7Ms)
+
 
 ## Instalar as Dependencias
 ```bash
